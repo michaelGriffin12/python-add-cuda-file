@@ -30,7 +30,7 @@ CUDA libraries reside.
 > adcf.write_file(2)
   ...
 > adcf.add_cuda()
-> print_output()
+> adcf.print_output()
 234 54 34 ...
 ```
 
